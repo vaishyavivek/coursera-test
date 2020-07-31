@@ -1,2 +1,2 @@
-# html-css-javascript-for-web-developers
-Coursera: html-css-javascript-for-web-developers
+# Coursera Courses test
+Coursera: test courses
